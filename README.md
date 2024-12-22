@@ -26,4 +26,6 @@ And here is the final product:
 ![20241222_120346](https://github.com/user-attachments/assets/25b79bac-973e-4c4c-84ca-441935dba0da)
 
 
-You can find my animation example video here: https://youtube.com/shorts/Kw89tR09EOI?feature=share
+Animation Example on video here: 
+
+https://www.youtube.com/shorts/Kw89tR09EOI
